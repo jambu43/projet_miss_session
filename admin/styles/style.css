@@ -1,0 +1,56 @@
+.align{
+	display: block;
+	padding-top: 250px;
+}
+.blue{
+	background-color: #172939;
+	color:#fff;
+}
+.btnau{
+	margin-bottom: 10px;
+}
+.btn-dec{
+	margin-right: 15px;
+}
+.panel-biso{
+	color: #fff;
+	background-color: #8c949b;
+	border-color: #337ab7;
+}
+.btn-biso{
+	color: #fff;
+	background-color: #3f7163;
+	border-color: #3f7163;
+}
+.page-header
+{
+	font-size:25px;
+	text-align: center;
+	
+}
+.panel-body
+{
+	background-color: rgb(234,234,234);
+}
+td 
+{
+	color:default;
+}
+#recherche
+{
+	width: 400px;
+}
+#pourRecherche{
+	
+#margin-right: 15px;
+}titretableau
+{
+	background-color: #172939;
+}
+label{
+	color:white;
+}
+#btn-nabiso{
+	padding-right: 40px;
+}
+

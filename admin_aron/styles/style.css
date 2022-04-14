@@ -1,0 +1,28 @@
+.align{
+	display: block;
+	padding-top: 250px;
+}
+.blue{
+	background-color: #172939;
+	color:#fff;
+}
+.btnau{
+	margin-bottom: 10px;
+}
+.btn-dec{
+	margin-right: 15px;
+}
+.page-header
+{
+	font-size:25px;
+	text-align: center;
+	
+}
+.panel-body
+{
+	background-color: rgb(234,234,234);
+}
+td 
+{
+	color:default;
+}
